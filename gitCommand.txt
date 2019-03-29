@@ -1,0 +1,8 @@
+$ cd aplikacja/
+$ git config --global user.name "kade282"
+$ git config --global user.email "dylewska5karolina@gmail.com"
+$ git init
+
+
+
+
